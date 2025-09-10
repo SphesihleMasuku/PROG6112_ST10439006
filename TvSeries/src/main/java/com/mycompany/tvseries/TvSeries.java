@@ -77,7 +77,7 @@ public class TvSeries {
                 break; 
 
             default:
-                System.out.println("We are done here.");
+                System.out.println("Thank you for using our Application.");
                 break;
         }
     }
